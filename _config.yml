@@ -6,12 +6,12 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Hello-Github
-description: haha
+title: Hello
+description: hardware design blog
 github_username: nianianian
 
 # Email and twitter are optional:
-email: 123
+email: 
 twitter_username:
 
 # Set this to true to get LaTeX math equation support
